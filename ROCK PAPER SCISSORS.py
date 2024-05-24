@@ -21,3 +21,5 @@ elif Player1 == Player2:
     print("Its a tie!") 
 else:
     print("something went wrong") 
+
+# this is a rock paper scissor project
